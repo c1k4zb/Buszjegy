@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="loginSTR">Bejelentkezés</string>
+    <string name="email">email</string>
+    <string name="password">jelszó</string>
+    <string name="registrationSTR">Regisztráció</string>
+    <string name="username">felhasználónév</string>
+    <string name="cancel">Mégse</string>
+    <string name="JegyvasarlasSTR">Jegyvásárlás</string>
+    <string name="jegyeimSTR">Jegyeim</string>
+    <string name="tejles">Tejles árú jegy</string>
+    <string name="kedvezmenyes">50%-os kedvezményű jegy</string>
+    <string name="keres">Keresés</string>
+    <string name="jegyek">Jegyek</string>
+    <string name="hibabejelentes">Hibabejelentés</string>
+    <string name="fenykepezes">Fényképezes</string>
+    <string name="kuldes">Küldés</string>
+    <string name="jegymodosit">Jegymódosítása</string>
+    <string name="jegymodositas">Jegymódosítás</string>
+
+    <string-array name="helyek">
+        <item>Szeged</item>
+        <item>Helyközi járat</item>
+        <item>Budapest</item>
+        <item>Kecskemét</item>
+        <item>Debrecen</item>
+        <item>Győr</item>
+        <item>Kiskunhalas</item>
+    </string-array>
+
+    <string-array name="fajta">
+        <item>Tejles árú jegy</item>
+        <item>50%-os kedvezményű jegy</item>
+    </string-array>
+
+    <string-array name="helyközi">
+        <item>450 km-es menetjegy</item>
+        <item>400 km-es menetjegy</item>
+        <item>350 km-es menetjegy</item>
+        <item>300 km-es menetjegy</item>
+        <item>250 km-es menetjegy</item>
+        <item>200 km-es menetjegy</item>
+        <item>150 km-es menetjegy</item>
+        <item>100 km-es menetjegy</item>
+        <item>90 km-es menetjegy</item>
+        <item>80 km-es menetjegy</item>
+        <item>70 km-es menetjegy</item>
+        <item>60 km-es menetjegy</item>
+        <item>50 km-es menetjegy</item>
+        <item>40 km-es menetjegy</item>
+        <item>30 km-es menetjegy</item>
+        <item>20 km-es menetjegy</item>
+        <item>10 km-es menetjegy</item>
+        <item>5 km-es menetjegy</item>
+    </string-array>
+
+    <string-array name="km">
+        <item>450</item>
+        <item>400</item>
+        <item>350</item>
+        <item>300</item>
+        <item>250</item>
+        <item>200</item>
+        <item>150</item>
+        <item>100</item>
+        <item>90</item>
+        <item>80</item>
+        <item>70</item>
+        <item>60</item>
+        <item>50</item>
+        <item>40</item>
+        <item>30</item>
+        <item>20</item>
+        <item>10</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="ar">
+        <item>5600</item>
+        <item>5300</item>
+        <item>4900</item>
+        <item>4400</item>
+        <item>4000</item>
+        <item>3200</item>
+        <item>2500</item>
+        <item>1700</item>
+        <item>1500</item>
+        <item>1400</item>
+        <item>1200</item>
+        <item>1000</item>
+        <item>800</item>
+        <item>700</item>
+        <item>500</item>
+        <item>400</item>
+        <item>350</item>
+        <item>300</item>
+    </string-array>
+</resources>

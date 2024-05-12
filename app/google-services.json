@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850440042651",
+    "project_id": "mobiljegy-e61db",
+    "storage_bucket": "mobiljegy-e61db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850440042651:android:1d22a3b0161da0a6096e3e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE3urHjFMkrEuH_5H1T-5g9i9zoSnnDOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
